@@ -1,4 +1,4 @@
-# [Scott Middlecamp] ([sdm-commits])
+# Scott Middlecamp ([sdm-commits])
 
 I'm a graduate student at **Wake Forest University** studying AI Strategy and Innovation. With a strong passion for applied AI, data analytics, and sports, along with experience working for **Driveline Baseball** and the **Seattle Sounders**, the projects included in this repository represent a small portion of my work.
 
